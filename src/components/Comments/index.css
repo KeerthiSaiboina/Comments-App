@@ -1,0 +1,67 @@
+/* Write your CSS here */
+.bg-container {
+}
+.comment-container {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+.comments-inputs-container {
+  padding-left: 50px;
+}
+.heading {
+  font-size: 58px;
+  font-family: 'Roboto';
+  font-weight: bold;
+}
+.description {
+  font-size: 22px;
+  font-family: 'Roboto';
+}
+.name-input {
+  height: 50px;
+  width: 380px;
+  background-color: transparent;
+  border-color: #475569;
+  margin-bottom: 10px;
+  border-radius: 8px;
+}
+.text-area {
+  background-color: transparent;
+  border-color: #475569;
+  margin-bottom: 10px;
+  border-radius: 8px;
+}
+.add-btn {
+  background-color: #0284c7;
+  color: #ffffff;
+  font-family: 'Roboto';
+  font-size: 20px;
+  border-style: none;
+  height: 45px;
+  width: 180px;
+  border-radius: 5px;
+  margin-bottom: 10px;
+}
+.image {
+  height: 350px;
+}
+.line {
+  width: 1050px;
+}
+
+.comments {
+  font-size: 24px;
+  font-family: 'Roboto';
+  padding-left: 115px;
+  font-weight: 500;
+  
+}
+.comment-count {
+  background-color: #0284c7;
+  padding: 5px;
+  padding-left: 10px;
+  padding-right: 10px;
+  margin-right: 5px;
+  border-radius: 5px;
+}
